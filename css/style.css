@@ -1,0 +1,39 @@
+.head-top{
+	background-image: url('../image/backpic1.jpg');
+	background-position:top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 300px;
+}
+.head-top h2{
+	padding: 130px 0px 0px 100px;
+	color: #fff;
+}
+.footer{
+	background-color: #333;
+	min-height: 200px;
+}
+.footer ul li{
+	list-style-type: none;
+}
+.footer ul li a{
+	color: #999;
+	text-decoration: none;
+}
+.footer .col-md-4{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.footer .address{
+	color: #eee;
+}
+.footer address{
+	color: #ccc;
+}
+.navbar-default .navbar-nav .dropdown:hover .dropdown-menu{
+	transition: all 2s;
+	display: block;
+}
+.tab-pane{
+	padding-top: 15px;
+}
